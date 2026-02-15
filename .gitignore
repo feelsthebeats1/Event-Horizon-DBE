@@ -35,9 +35,9 @@ thumbs.db.meta
 license.keystore
 steam_appid.txt
 .vsconfig
-
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
