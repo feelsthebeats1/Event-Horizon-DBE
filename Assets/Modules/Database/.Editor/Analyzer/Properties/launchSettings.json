@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Analyzer": {
-      "commandName": "Project",
-      "commandLineArgs": "../../../../Database"
-    }
-  }
-}
